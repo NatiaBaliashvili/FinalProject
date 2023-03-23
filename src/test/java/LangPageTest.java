@@ -7,7 +7,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import static com.codeborne.selenide.Selenide.sleep;
-
 public class LangPageTest extends ChromeRunner {
     @Test
     @Severity(SeverityLevel.MINOR)
